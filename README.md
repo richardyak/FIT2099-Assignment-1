@@ -19,3 +19,7 @@ ground.
 
 As for the force user's mind control, there would be another option on the action menu to choose this option, only applicable when the 
 player object is on the same panel another actor object. This mind control is only usable on droids, where they have effectively 0 force.
+
+Lastly, if the player and Ben both meet on the same panel, the player would have an option to be trained by Ben. This training would be
+the only method in the force class to increment player's force value and is a method unique to the player. This method when called would
+increment the force value by a set amount each time it is called. 
